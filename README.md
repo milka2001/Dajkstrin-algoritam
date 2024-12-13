@@ -1,4 +1,4 @@
-# Dajkstrin-algoritam
+# Dajkstrin algoritam
 Metodički zadatak iz kursa Metodika nastave matematike i računarstva na Matematičkom fakultetu u Beogradu
 
 ## Pokretanje
