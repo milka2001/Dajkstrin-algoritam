@@ -1,0 +1,24 @@
+# ninja log v5
+2	1836	7557522067637693	Dijkstra_autogen/timestamp	7184724bca77c317
+2	1836	7557522067637693	C:/Users/vkozic/Desktop/Dijkstra/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Release/Dijkstra_autogen/timestamp	7184724bca77c317
+2	1836	7557522067637693	Dijkstra_autogen/mocs_compilation.cpp	7184724bca77c317
+1849	6875	7557522119707164	CMakeFiles/Dijkstra.dir/main.cpp.obj	24b66b06c2059452
+2	1836	7557522067637693	C:/Users/vkozic/Desktop/Dijkstra/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Release/Dijkstra_autogen/mocs_compilation.cpp	7184724bca77c317
+1854	6895	7557522119898688	CMakeFiles/Dijkstra.dir/Dijkstra_autogen/mocs_compilation.cpp.obj	6f8315a9ac32b541
+1858	7543	7557522126329738	CMakeFiles/Dijkstra.dir/mainwindow.cpp.obj	b316bf378db30595
+7544	7752	7557522128636159	Dijkstra.exe	80c04c4adb03fb24
+24	2185	7557693327502312	Dijkstra_autogen/timestamp	7184724bca77c317
+24	2185	7557693327502312	Dijkstra_autogen/mocs_compilation.cpp	7184724bca77c317
+24	2185	7557693327502312	C:/Users/vkozic/Desktop/Dijkstra/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Release/Dijkstra_autogen/timestamp	7184724bca77c317
+24	2185	7557693327502312	C:/Users/vkozic/Desktop/Dijkstra/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Release/Dijkstra_autogen/mocs_compilation.cpp	7184724bca77c317
+2190	5843	7557693365453393	CMakeFiles/Dijkstra.dir/main.cpp.obj	24b66b06c2059452
+2186	5849	7557693365496926	CMakeFiles/Dijkstra.dir/Dijkstra_autogen/mocs_compilation.cpp.obj	6f8315a9ac32b541
+2197	6426	7557693371358668	CMakeFiles/Dijkstra.dir/graph.cpp.obj	b5a067583839d670
+2194	6636	7557693373447830	CMakeFiles/Dijkstra.dir/mainwindow.cpp.obj	b316bf378db30595
+6637	6753	7557693374670257	Dijkstra.exe	2dec533690e4d339
+17	498	7558074876955935	Dijkstra_autogen/timestamp	7184724bca77c317
+17	498	7558074876955935	Dijkstra_autogen/mocs_compilation.cpp	7184724bca77c317
+17	498	7558074876955935	C:/Users/vkozic/Desktop/Dijkstra/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Release/Dijkstra_autogen/timestamp	7184724bca77c317
+17	498	7558074876955935	C:/Users/vkozic/Desktop/Dijkstra/build/Desktop_Qt_6_8_1_llvm_mingw_64_bit-Release/Dijkstra_autogen/mocs_compilation.cpp	7184724bca77c317
+531	5307	7558075163328239	CMakeFiles/Dijkstra.dir/mainwindow.cpp.obj	b316bf378db30595
+5307	5413	7558075164435371	Dijkstra.exe	2dec533690e4d339
