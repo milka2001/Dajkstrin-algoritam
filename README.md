@@ -8,3 +8,6 @@ Pokretanje se vrši pokretanjem `Dijkstra.exe` koji se može naći u `build` -> 
 Pomoću dugmeta `Sledeći korak` korisnik se kreće kroz graf i boji čvorove i grane koji su na redu u Dajkstrinom algoritmu.
 
 ## Slika projekta
+
+![](./resources/pocetnostanje.png)
+![](./resources/medjustanje.png)
